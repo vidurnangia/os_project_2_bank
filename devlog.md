@@ -13,3 +13,6 @@
 #one note mid session is im seeing a main.cpp is not necessary and will be ran in bank.cpp
 
 #This session was good. I completed the semaphore declarations and calls before the teller and the customer loops. Working on the teller loop. should be good to finish, but I am realizing i need a say/print function because it doesnt make sense to imbed it in my teller loops.
+
+#Session 3 11/16 10:32 PM
+#In the last session I learned there was no need for a main, finished the semaphore dialogue, and wworked on the teller loop. my goal for this session is to fully complete the teller loop. tomorrow i will do the customer loop and debug.
