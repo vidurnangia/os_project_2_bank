@@ -18,3 +18,7 @@
 #In the last session I learned there was no need for a main, finished the semaphore dialogue, and wworked on the teller loop. my goal for this session is to fully complete the teller loop. tomorrow i will do the customer loop and debug.
 
 #I have completed this session. I finished the teller loop for the molst part. I went back and created my enum DS for transactions which I had forgotten. I also have to create the print function I call throughout the program. Will do this next session later this afternoon. SO far the project is coming along well. Just now I had run into some compiler issues where all my imports reported errors. I debugged this through reinstalling g++, clearing vs cache and reloading the program. it all worked out :)
+
+#Session 4  - 11/17/2026 4:48 PM
+
+#In this session I hope to finish both the customer loop and the print loop. After doing the teller loop I have a much better idea of how to do these functions, so hopefully customer wont take too long. as for the print, i am thinking something rather simple for structuring output.
