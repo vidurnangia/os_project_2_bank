@@ -22,3 +22,11 @@
 #Session 4  - 11/17/2026 4:48 PM
 
 #In this session I hope to finish both the customer loop and the print loop. After doing the teller loop I have a much better idea of how to do these functions, so hopefully customer wont take too long. as for the print, i am thinking something rather simple for structuring output.
+
+#I completed the customer loop with ease because of its similarity to the teller loop. I also was able to do the print loop. That took a couple tries, had various errors that were solved with imports, etc. 
+
+#Session 5 - 11/17/2026 7:19 PM
+
+#In this session I hope to complete my main function which executes the customer and teller loops. After this I can debug, test, and be complete :)
+
+#Finished all loops, functions, and compiled :) Debugged and am ready for submission. This last stretch was the smoothest thus far. Learned a lot!
